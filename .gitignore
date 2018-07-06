@@ -1,6 +1,7 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 .Ds_store
+.mvn
 ### STS ###
 *.class
 .apt_generated
